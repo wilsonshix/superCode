@@ -1,5 +1,6 @@
 Bonjour,
 Je suis heureux d'apprendre GIT.
+Et vous ?
 
 Cordialement,
 TOTOS
